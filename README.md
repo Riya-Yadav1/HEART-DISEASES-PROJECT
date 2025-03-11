@@ -1,1 +1,1 @@
-# HEART-DISEASES-PROJECT
+# Analyzed a heart disease dataset to detect daily incidence rates based on age and other factors, and explored the relationship between age and physical activity using Pandas, Python, Seaborn , Matplotlib for data processing and visualization
